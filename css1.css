@@ -1,0 +1,50 @@
+p {
+    color: blue;
+  }
+
+ 
+  a {
+    width: 25px;
+  }
+ 
+  img {
+    width: 250px;
+  }
+
+  div {
+    overflow: scroll;
+  }
+ 
+  h1 {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  p {
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+  }
+
+  span {
+    font-style: italic;
+  }
+
+  h1 span {
+    font-weight: bold;
+    color: blue;
+ }
+
+ #nav-menu{
+    list-style-type: none; /*This gets rid of the bullets.*/
+  }
+  #nav-menu li {
+    display: inline;
+  }
+
+ 
+
+  div {
+    padding: 25px 50px 75px 100px;
+  }
